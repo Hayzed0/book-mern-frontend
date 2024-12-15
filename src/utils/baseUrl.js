@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "http://localhost:8000"
+    return "https://book-mern-backend1-xnft.vercel.app"
 }
 
 export default getBaseUrl
